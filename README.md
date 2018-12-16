@@ -22,14 +22,14 @@ $ mkdir toy_model
 Dowload the required files in the new folder.
 
 ```
-$ wget https://github.com/joshuamsalazar/background-noise-toy-model-root/blob/master/toy.c
+$ wget https://github.com/joshuamsalazar/background-noise-toy-model-root/blob/master/toydiscovery.c
 $ wget https://github.com/joshuamsalazar/background-noise-toy-model-root/blob/master/toy_discovery.root
 ```
 
 And then run the root code:
 
 ```
-$ root -l toy.c
+$ root -l toydiscovery.c
 ```
 It will automatically generate output files where the fit parameters are specified.
 
@@ -47,6 +47,7 @@ It will automatically generate output files where the fit parameters are specifi
 - Edwin Vásconez 
 - Carla Borja
 - Eduardo López
+- Joshua Salazar
 
 
 
