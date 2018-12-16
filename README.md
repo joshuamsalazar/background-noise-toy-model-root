@@ -1,6 +1,7 @@
 # background-noise-toy-model-root
 
 ###### Introduction to Nuclear and Particle Physics - stats lab project 
+###### Yachay Tech University
 
 > "This is the physics version of the discovery of DNA."
 > --Peter Knight, president of Britain's Institute of Physics
@@ -14,13 +15,15 @@ Once set up, you must provide some data to the algorithm to start the fitting.
 
 ###### Credits: 
 - Anthony Ramos
-- Cynthia Arias
+- Cynthia Arias :U
 - Carlos Cocha
 - Juan Daniel Torres
 - Iskra Zambrano
 - Andrés Vega
 - Juan David Alcivar
 - Génesis Mendoza
+- Carla Borja :V
+- Yisus
 
 
 
