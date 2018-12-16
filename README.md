@@ -10,20 +10,41 @@ A root code for fitting and anylizing a Higgs-like signal from experimental meas
 
 You must have [ROOT - Data Analysis Framework](https://root.cern.ch/downloading-root) installed.
 
-Once set up, you must provide some data to the algorithm to start the fitting.
+Once set up, you should provide some data to the algorithm to start the fitting.
+
+For running the code under Linux/MacOS, place it in a separated folder:
+
+```
+$ cd 
+$ mkdir toy_model
+```
+
+Dowload the required files in the new folder.
+
+```
+$ wget https://github.com/joshuamsalazar/background-noise-toy-model-root/blob/master/toy.c
+$ wget https://github.com/joshuamsalazar/background-noise-toy-model-root/blob/master/toy_discovery.root
+```
+
+And then run the root code:
+
+```
+$ root -l toy.c
+```
+It will automatically generate output files where the fit parameters are specified.
 
 
 ###### Credits: 
 - Anthony Ramos
-- Cynthia Arias :U
+- Cynthia Arias
 - Carlos Cocha
 - Juan Daniel Torres
 - Iskra Zambrano
 - Andrés Vega
 - Juan David Alcivar
 - Génesis Mendoza
-- Carla Borja :V
-- Yisus
+- Carla Borja
+- Eduardo López
 
 
 
