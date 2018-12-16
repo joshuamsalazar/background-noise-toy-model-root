@@ -43,6 +43,8 @@ It will automatically generate output files where the fit parameters are specifi
 - Andrés Vega
 - Juan David Alcivar
 - Génesis Mendoza
+- Truman Tapia
+- Edwin Vásconez 
 - Carla Borja
 - Eduardo López
 
